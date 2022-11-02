@@ -54,6 +54,11 @@
         "img": "./img/apps/gfnow.png",
         "location": "https://play.geforcenow.com"
     },
+       {
+        "title": "Geforce Now",
+        "img": "./img/apps/gfnow.png",
+        "location": "https://play.geforcenow.com"
+    },
     {
         "title": "Y8",
         "img": "./img/apps/y8.png",
